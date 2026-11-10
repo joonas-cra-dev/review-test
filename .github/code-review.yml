@@ -1,3 +1,2 @@
 version: 1
-instructions: |
-  Pages are counted from 1, never 0.
+specialists: { security: false }
